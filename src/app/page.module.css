@@ -130,6 +130,9 @@
   .content {
     padding: 4rem;
   }
+  .main-navbar {
+    flex-direction: column;
+  }
 
   .grid {
     grid-template-columns: 1fr;
@@ -226,4 +229,11 @@
   to {
     transform: rotate(0deg);
   }
+}
+.inline-container {
+  display: flex;
+}
+.inline-container a {
+  text-decoration: none;
+
 }
