@@ -9,6 +9,7 @@ export default function Home() {
       <Navbar />
       <div className='container'>
       <ThreadSymbol />
+      
       </div>
     </main>
   )

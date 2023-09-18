@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
             <div className='container'>
                 <h1>Privacy Policy for thread symbol</h1>
 
-                <p>At thread symbol, accessible from https://threadsymbol.link/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by thread symbol and how we use it.</p>
+                <p>At thread symbol, accessible from <a href="https://threadsymbol.link/">ThreadSymbol</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by thread symbol and how we use it.</p>
 
                 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
