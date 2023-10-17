@@ -7,7 +7,7 @@ const About = () => {
       <NavbarHeader />
       <div className='container'>
             <h1>About Us</h1>
-            <p>Hello, Dear friends, Welcome to Copy the <Link></Link>Symbol and Emoji for Thread also, we are happy you want to know something more about our site</p>
+            <p>Hello, Dear friends, Welcome to Copy the Symbol and Emoji for Thread also, we are happy you want to know something more about our site</p>
             <p>So, basically, nowadays people are more dependent on online products and services that’s why we also, take forward a step to help you.</p>
             <p>Our first wish is to provide you with a better solution to solve your problem. So, kindly if you don’t get any solution then mention it in the comment section.</p>
             <p>Also, we are trying to provide fresh & latest content that provides you ideas about all updated information that’s happening in the world.</p>
