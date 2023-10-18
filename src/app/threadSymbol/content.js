@@ -11,6 +11,11 @@ const SymbolContent = () => {
             //   loader={imageLoader}
               width={500}
               height={300}
+    sizes="100vw"
+      style={{
+        width: '100%',
+        height: 'auto',
+      }}
               priority
             />
             <ul>
