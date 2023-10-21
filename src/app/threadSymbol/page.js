@@ -1,4 +1,5 @@
 "use client"
+import { useState } from "react";
 import SymbolContent from "./content";
 import { GenderSymbols, HeartList, MusicSymbol, SimilyFaceEmoji, TechnicalSymbol, 
         ToolSymbol, strSymbols, symbolList,JapenseSymbol, JapenseHiranga,JapaneseKatakana, 
