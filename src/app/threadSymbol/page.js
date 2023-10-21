@@ -137,6 +137,7 @@ return (
               </span>))
             }
           </div>
+           <SymbolContent />
    </>
 )
 }
