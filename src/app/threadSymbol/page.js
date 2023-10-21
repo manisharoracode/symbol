@@ -11,7 +11,7 @@ function handleSymbolClick(symbolItem) {
 }
 return (
    <>
-      <h1>More then 10000+ Text Faces for Threads App You Can Copy And Paste 〵(^ o ^)〴</h1>
+   
           <div className="mt-5">
             <h1>More then 10000+ Text Faces for Threads App You Can Copy And Paste 〵(^ o ^)〴</h1>
             {
