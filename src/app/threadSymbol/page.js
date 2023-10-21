@@ -5,7 +5,7 @@ import { GenderSymbols, HeartList, MusicSymbol, SimilyFaceEmoji, TechnicalSymbol
         JapaneseKawaliFaces, JapenseHappyEmoticons, JapaneseLoveEmoticons, JapaneseFlowerEmoticons, 
         JapaneseFlirtyEmoticons } from '../Coponent/Symbols';
 
-
+const ThreadSymbol = () => {
 function handleSymbolClick(symbolItem) {
    navigator.clipboard.writeText(symbolItem);
 }
