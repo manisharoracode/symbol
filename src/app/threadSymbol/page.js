@@ -1,6 +1,9 @@
 
 import SymbolContent from "./content";
-import { GenderSymbols, HeartList, MusicSymbol, SimilyFaceEmoji, TechnicalSymbol, ToolSymbol, strSymbols, symbolList,JapenseSymbol, JapenseHiranga,JapaneseKatakana, JapaneseKawaliFaces, JapenseHappyEmoticons, JapaneseLoveEmoticons, JapaneseFlowerEmoticons, JapaneseFlirtyEmoticons } from '../Component/Symbols';
+import { GenderSymbols, HeartList, MusicSymbol, SimilyFaceEmoji, TechnicalSymbol, 
+        ToolSymbol, strSymbols, symbolList,JapenseSymbol, JapenseHiranga,JapaneseKatakana, 
+        JapaneseKawaliFaces, JapenseHappyEmoticons, JapaneseLoveEmoticons, JapaneseFlowerEmoticons, 
+        JapaneseFlirtyEmoticons } from '../Coponent/Symbols';
 
 
 function handleSymbolClick(symbolItem) {
